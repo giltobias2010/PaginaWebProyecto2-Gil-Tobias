@@ -364,19 +364,6 @@ h1, h2, h3 {
     border-radius: 10px;
 }
 
-.step-number {
-    width: 34px;
-    height: 34px;
-    border-radius: 50%;
-    background: #1c1a17;
-    color: #f2ede3;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 700;
-    margin-bottom: 12px;
-}
-
 .site-footer {
     padding: 22px;
     text-align: center;
